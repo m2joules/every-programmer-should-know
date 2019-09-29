@@ -2,7 +2,7 @@
 
 ----
 
-# Every Programmer Should Know :thinking:
+# Programmer Should Know :thinking:
 A collection of (mostly) technical things every software developer should know.  
 
 :point_up: *These are resources I can recommend to every programmer regardless of their skill level or tech stack*
